@@ -1,0 +1,4 @@
+Select *
+From idontknow
+Where a == b
+LIMIT 30
